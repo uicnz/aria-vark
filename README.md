@@ -1,4 +1,4 @@
-# Aria Mark
+# Aria Vark
 
 A markdown editor with voice transcription that stores content entirely in the URL hash. No backend, no accounts, no data collection.
 
