@@ -6,7 +6,7 @@ import type { ProviderConfig, ProviderType } from '../providers/types'
 const isTerminal = typeof window === 'undefined'
 
 export class UniversalStorage {
-  private storagePrefix = 'aria-mark-provider-'
+  private storagePrefix = 'aria-vark-provider-'
 
   // Get provider configuration
   getProviderConfig(provider: ProviderType): ProviderConfig | null {

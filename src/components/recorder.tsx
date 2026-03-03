@@ -286,8 +286,8 @@ export function Recorder({ onTranscription, onRecordingStart, onCaptureCursor }:
             <div data-1p-ignore data-lpignore="true" data-bwignore data-protonpass-ignore>
               <Input
                 ref={inputRef}
-                id="aria-mark-token"
-                name="aria-mark-token"
+                id="aria-vark-token"
+                name="aria-vark-token"
                 type="text"
                 value={providerConfig?.apiKey || ''}
                 onChange={(e) => handleApiKeyChange(e.target.value)}

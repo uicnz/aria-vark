@@ -40,7 +40,7 @@ Output goes to `dist/`.
 
 The app deploys automatically to GitHub Pages on push to `main`.
 
-**Default URL:** `https://uicnz.github.io/aria-mark/`
+**Default URL:** `https://uicnz.github.io/aria-vark/`
 
 ### Custom Domain Setup (yoyo.io)
 
